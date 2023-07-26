@@ -15,4 +15,4 @@
 - Exercise 13 - Take a screenshot of the first page of the notebook. (1 pt)
 
 Here's the Screenshot :
-<img width="1440" alt="Screenshot 2023-07-26 at 8 34 23 PM" src="https://github.com/NamanAarzoo/tools-for-DS-final-project/assets/84902335/6c4fc180-5579-43e4-ab63-1e78d8d9fff0">
+<img width="1440" alt="Screenshot 2023-07-26 at 8 39 51 PM" src="https://github.com/NamanAarzoo/tools-for-DS-final-project/assets/84902335/54620a0c-de12-4877-a30e-bf7ceb2616f9">
